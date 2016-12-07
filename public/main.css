@@ -1,0 +1,13 @@
+body {
+  background-color: tomato;
+}
+
+#main-map {
+  height: 500px;
+  width: 500px;
+}
+
+button {
+  height: 75px;
+  width: 500px;
+}
